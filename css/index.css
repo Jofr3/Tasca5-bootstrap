@@ -1,0 +1,15 @@
+#navbarNav {
+    margin-left: 200px;
+}
+
+.nav-item, .navbar-brand {
+    padding: 10px;
+}
+
+.main_footer {
+    margin-top: 50px;
+}
+
+#navbarNav1 {
+    justify-content: center;
+}
